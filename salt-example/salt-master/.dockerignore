@@ -1,2 +1,6 @@
 # Populate this file to instruct `docker build` to ignore `badscript.sh` & any
 # extra conf files for salt.
+badscript.sh
+*.conf
+README.md
+
